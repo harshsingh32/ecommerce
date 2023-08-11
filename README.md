@@ -1,4 +1,4 @@
-# 🛍️ Ecommerce Project using MERN Stack and Shopify API
+# 🛍️ Ecommerce Project using Shopify API
 
 [project link 🖇️](https://nextjs-tailwind-amazona-final.vercel.app/)
 
@@ -45,7 +45,7 @@ We welcome contributions from the community to make our project even better. To 
 
 ## 👤 About the Author
 
-This project was created with passion by [Your Name]. Connect with me on [LinkedIn](link_to_linkedin_profile) or follow me on [Twitter](link_to_twitter_profile) to stay updated.
+This project was created with passion by Harsh Singh. Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-singh-4245771a2) or follow me on [Twitter](https://twitter.com/harshsitwts) to stay updated.
 
 ## 🙏 Acknowledgments
 
