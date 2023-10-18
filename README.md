@@ -3,7 +3,6 @@
 [project link 🖇️](https://nextjs-tailwind-amazona-final.vercel.app/)
 
 ## 🌟 Overview
-
 Welcome to our dynamic and feature-rich ecommerce website built using the MERN (MongoDB, Express.js, React, Node.js) stack. 🚀 Leveraging the power of the Shopify API, it offers seamless integration with an online store, providing users with a smooth and immersive shopping experience.
 
 ## 🔑 Key Features
